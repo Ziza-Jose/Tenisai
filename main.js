@@ -1,2 +1,6 @@
+import './style.css'
 
-document.getElementById('app').innerHTML = '<h1>Olá, Tenisai está online!</h1>';
+document.querySelector('#app').innerHTML = `
+  <h1>Bem-vindo ao TenisAI!</h1>
+  <p>A previsão mais inteligente de resultados de tênis.</p>
+`;

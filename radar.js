@@ -1,0 +1,1 @@
+// Código do gráfico radar comparativo usando Chart.js ou Recharts

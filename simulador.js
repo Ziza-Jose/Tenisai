@@ -1,0 +1,1 @@
+// Lógica do simulador de apostas baseado nas odds e previsão IA

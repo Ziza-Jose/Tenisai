@@ -1,8 +1,6 @@
-import { defineConfig } from 'vite'
-
-export default defineConfig({
-  root: '.',
-  build: {
-    outDir: 'dist'
+export default {
+  root: ".",
+  server: {
+    port: 3000
   }
-})
+};

@@ -1,1 +1,2 @@
-console.log("MatchMind AI carregado no navegador");
+
+console.log("MatchMind AI carregado com sucesso!");
